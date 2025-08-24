@@ -13,6 +13,13 @@ This project is a comprehensive regression diagnostics and modeling analysis usi
 
 ---
 
+## 📂 Dataset  
+
+This project uses the **[Ames Housing Dataset](https://www.kaggle.com/datasets/shashanknecrothapa/ames-housing-dataset/data)** provided by Shashank Necrothapa on Kaggle.  
+It contains detailed housing data from Ames, Iowa, and is widely used for regression modeling and predictive analytics.
+
+---
+
 ## 🔍 Key Steps & Methods
 
 1. **Exploratory Data Analysis (EDA)**: Histograms, boxplots, scatterplots, and summary statistics.

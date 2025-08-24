@@ -1,6 +1,10 @@
 
 # Regression Analysis - Ames Housing
 
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)  
+![Last Commit](https://img.shields.io/github/last-commit/josedeleon-analytics/Regression-analysis-Ameshousing)  
+![R](https://img.shields.io/badge/R-100%25-blue)
+
 This project is a comprehensive regression diagnostics and modeling analysis using the Ames Housing dataset. It follows a rigorous 14-step process to build and validate a multiple linear regression model in R.
 
 ---
